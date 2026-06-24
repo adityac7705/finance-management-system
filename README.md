@@ -26,5 +26,5 @@ A simple console-based Finance Management System built using Python OOP concepts
 python finance_manager.py
 ```
 
-Author
+Author:
 Aditya Chavan
